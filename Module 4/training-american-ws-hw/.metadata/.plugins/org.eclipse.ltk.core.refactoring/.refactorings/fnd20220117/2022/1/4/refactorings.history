@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;fnd20220117/training4-american-ws/src/main/mule/american-flights-api.xml&apos; to &apos;interface.xml&apos;" description="Rename resource &apos;american-flights-api.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="training4-american-ws/src/main/mule/american-flights-api.xml" name="interface.xml" stamp="1642569256364" updateReferences="true"/>
+</session>
